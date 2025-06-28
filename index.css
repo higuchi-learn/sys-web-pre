@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: white;
+}
+
+li {
+  list-style: none;
+}
+
+.wrapper{
+  width: 100%;
+}
+
+.contents_container{
+  width: 1024px;
+  margin: 0 auto;
+  padding: 0 44px;
+}
+
+header{
+  background-color: rgb(210, 255, 255);
+}
+
+header img{
+  width: 140px;
+  height: auto;
+}
+
+footer{
+  background-color: #0000A0;
+  color: white;
+}
+
+footer h2{
+  text-align: center;
+  padding: 10px;
+}
+
+.copyright{
+  text-align: center;
+  font-size: 10px;
+  padding: 3px 0;
+}
